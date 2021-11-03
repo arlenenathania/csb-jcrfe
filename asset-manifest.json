@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arlenenathania.github.io/csb-jcrfe/static/css/main.127ab68e.chunk.css",
+    "main.js": "https://arlenenathania.github.io/csb-jcrfe/static/js/main.39dd1646.chunk.js",
+    "main.js.map": "https://arlenenathania.github.io/csb-jcrfe/static/js/main.39dd1646.chunk.js.map",
+    "runtime-main.js": "https://arlenenathania.github.io/csb-jcrfe/static/js/runtime-main.2186c468.js",
+    "runtime-main.js.map": "https://arlenenathania.github.io/csb-jcrfe/static/js/runtime-main.2186c468.js.map",
+    "static/js/2.a96b2b14.chunk.js": "https://arlenenathania.github.io/csb-jcrfe/static/js/2.a96b2b14.chunk.js",
+    "static/js/2.a96b2b14.chunk.js.map": "https://arlenenathania.github.io/csb-jcrfe/static/js/2.a96b2b14.chunk.js.map",
+    "index.html": "https://arlenenathania.github.io/csb-jcrfe/index.html",
+    "static/css/main.127ab68e.chunk.css.map": "https://arlenenathania.github.io/csb-jcrfe/static/css/main.127ab68e.chunk.css.map",
+    "static/js/2.a96b2b14.chunk.js.LICENSE.txt": "https://arlenenathania.github.io/csb-jcrfe/static/js/2.a96b2b14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2186c468.js",
+    "static/js/2.a96b2b14.chunk.js",
+    "static/css/main.127ab68e.chunk.css",
+    "static/js/main.39dd1646.chunk.js"
+  ]
+}
